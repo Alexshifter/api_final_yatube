@@ -101,7 +101,7 @@ python manage.py runserver
  
   ![изображение](https://github.com/Alexshifter/api_final_yatube/assets/146896696/16972d79-0454-4936-8bb7-73128694b4da)
   
-- **Частичное обновление поста**:
+- **Обновление поста**:
   
   ![изображение](https://github.com/Alexshifter/api_final_yatube/assets/146896696/cd7a7cb6-dd7d-4291-b787-e989956f8dd6)
   
