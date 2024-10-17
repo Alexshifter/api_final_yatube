@@ -74,6 +74,5 @@ python manage.py runserver
   ![изображение](https://github.com/Alexshifter/api_final_yatube/assets/146896696/cd7a7cb6-dd7d-4291-b787-e989956f8dd6)
 - **Подписка на пользователя**:
   ![изображение](https://github.com/Alexshifter/api_final_yatube/assets/146896696/0e7c8b93-28f0-4415-916d-8840c665ae1c)
-### Со-авторы проекта
-- Команда Яндекс.Практикума https://github.com/yandex-praktikum 
+### Автор
 - Алексей Пакаев https://github.com/Alexshifter
